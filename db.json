@@ -1,0 +1,69 @@
+{
+  "settings": {
+    "siteName": "Free Barcode & QR Code Generator",
+    "siteTitle": "Free Barcode & QR Code Generator - Create and Download Instantly",
+    "siteDescription": "Generate unlimited high-quality QR codes and barcodes for free. Fully customize colors, size, and logos. Supports PDF, SVG, and PNG downloads without registration.",
+    "googleAnalyticsId": "G-GA12345678",
+    "googleSearchConsoleVerification": "g-sc-verification-key",
+    "clarityId": "clarity-id-123",
+    "headerAdCode": "",
+    "sidebarAdCode": "",
+    "contentAdCode": "",
+    "resultAdCode": "",
+    "footerAdCode": "",
+    "adminPassword": "admin"
+  },
+  "stats": {
+    "visitors": 1284,
+    "qrGenerated": 412,
+    "barcodeGenerated": 358,
+    "adClicks": 89,
+    "dailyStats": [
+      { "date": "2026-05-24", "visitors": 140, "qr": 45, "barcode": 32, "adClicks": 8 },
+      { "date": "2026-05-25", "visitors": 165, "qr": 52, "barcode": 40, "adClicks": 12 },
+      { "date": "2026-05-26", "visitors": 190, "qr": 58, "barcode": 45, "adClicks": 10 },
+      { "date": "2026-05-27", "visitors": 175, "qr": 49, "barcode": 39, "adClicks": 15 },
+      { "date": "2026-05-28", "visitors": 210, "qr": 65, "barcode": 55, "adClicks": 14 },
+      { "date": "2026-05-29", "visitors": 234, "qr": 70, "barcode": 62, "adClicks": 18 },
+      { "date": "2026-05-30", "visitors": 170, "qr": 73, "barcode": 85, "adClicks": 12 }
+    ]
+  },
+  "blogs": [
+    {
+      "id": "1",
+      "title": "What is a QR Code? The Ultimate Guide for Beginners",
+      "slug": "what-is-qr-code",
+      "excerpt": "Discover the foundation of Quick Response codes, how they store information, and why businesses globally of all sizes rely on them daily.",
+      "content": "### What is a QR Code?\n\nA **QR code** (short for \"Quick Response\" code) is a two-dimensional barcode readable by smartphones, tablets, and dedicated barcode scanners. Unlike traditional linear barcodes that can only be read from left to right, QR codes store data both vertically and horizontally, allowing them to contain hundreds of times more information.\n\nFirst designed in 1994 by the Japanese company Denso Wave (a subsidiary of Toyota) to track automotive parts during manufacturing, QR codes have since evolved into a universal gateway linking the physical and digital worlds.\n\n---\n\n### How Do QR Codes Work?\n\nA QR code consists of black squares arranged in a grid pattern on a white background. When you scan it, the scanner's image sensor analyzes the pattern and decodes the integrated structural fields:\n\n1. **Position Detection Patterns:** Three large squares located at the top-left, top-right, and bottom-left corners. They help the scanner quickly align the code and read it regardless of rotation.\n2. **Alignment Patterns:** Smaller squares located in other regions to correct distortions when reading on uneven or curved surfaces.\n3. **Timing Patterns (Grid lines):** Grid coordinates defining the size of data columns.\n4. **Quiet Zone:** The plain white border surrounding the QR code, which separates the code from local physical surroundings.\n\n---\n\n### Common QR Code Types\n\nQR codes are incredibly versatile and can trigger different actions upon scan:\n- **URL / Website Links:** Direct users to contact forms, squeeze pages, web applications, or landing pages.\n- **Wi-Fi Credentials:** Allow guests to join a secured wireless network instantly without typing passwords.\n- **vCard Contacts:** Import phone numbers, addresses, emails, and social handles straight into standard digital address books.\n- **WhatsApp & SMS:** Prefill custom messaging layouts with customized recipient numbers and messages.\n- **Email Templates:** Initiate automated support inquiries with matching subjects and target addresses.\n\n---\n\n### Why Use a Free Generator?\n\nUsing an online generator keeps you agile. Our tool offers high-accuracy SVG and PNG downloads with customizable foreground colors, background colors, and margin controls without any subscription, enabling search engine optimized web solutions with absolute ease.",
+      "views": 412,
+      "publishedAt": "2026-05-20"
+    },
+    {
+      "id": "2",
+      "title": "How to Create a Barcode for Retail Products",
+      "slug": "how-to-create-barcode",
+      "excerpt": "A step-by-step masterclass explaining product registration, barcode format selection, and generating retail-ready EAN/UPC labels.",
+      "content": "### Introduction to Retail Barcodes\n\nIf you sell physical goods through retailers, distribute inventory via commercial channels, or manage thousands of items in local stores, barcodes are indispensable. They automate scanning at checkout, lower checkout delays, minimize staff bookkeeping errors, and connect items to dynamic POS software.\n\nCreating operational, scannable codes requires choosing the correct global standards and rendering formats.\n\n---\n\n### Step 1: Secure Your GS1 Company Prefix\n\nMost mainstream retail stores require a unique identification standard so your barcode doesn't clash with another product. \n- **GS1 Organization:** The official global authority handling international standards.\n- **Prefix Assignment:** When you register, GS1 issues a designated company prefix. This identifies you as the official manufacturer.\n\n---\n\n### Step 2: Choose the Correct Symbology\n\nDepending on your shipping destination, choose between these major symbologies:\n- **UPC-A (Universal Product Code):** The 12-digit standard barcode used widely throughout North America (United States & Canada).\n- **EAN-13 (European Article Number):** The 13-digit retail barcode standard used internationally outside of North America.\n- **Code 128 / Code 39:** Generally reserved for interior asset management, warehousing tracking, and logistics (not direct checkout systems).\n\n---\n\n### Step 3: Customize and Export Your Code\n\nWhen printing physical designs:\n1. **Ensure High Visual Contrast:** Stick with high-contrast choices. Excellent designs pair a white/reflective background with solid dark active lines (e.g. black, deep gray, navy).\n2. **Verify Adequate Sizing:** Do not shrink code height below standard reader recommendations (usually 1\" wide by 0.5\" tall) to protect scanner lasers from alignment gaps.\n3. **Use Scalable Vectors:** Always generate in **SVG** or high-resolution **PNG** formats. Standard low-res screenshots or compressed formats blur edges, which stalls laser reading at retail counters.\n\nOur Free Barcode Generator implements standard formatting and supports rapid, pixel-perfect exports in Code 128, EAN-13, and UPC-A formats effortlessly.",
+      "views": 285,
+      "publishedAt": "2026-05-22"
+    },
+    {
+      "id": "3",
+      "title": "Barcode Types Explained: Comparing Code 128, EAN, UPC, and More",
+      "slug": "barcode-types-explained",
+      "excerpt": "Demystify linear symbologies. Learn the differences between 1D barcodes and when to choose specific standards for logistics vs retail.",
+      "content": "### What are 1D Barcodes?\n\nOne-dimensional (1D) or linear barcodes represent data by varying the widths and spacings of parallel lines. They have served as primary product identifiers for nearly fifty years. However, each standard (or symbology) has restrictive rules regarding character support, length, and error tolerance.\n\nHere is a comprehensive breakdown of the most common standard formats used today.\n\n---\n\n### 1. Code 128: The Logistics King\n\n- **Character Set:** Full ASCII (letters, numbers, punctuation, and control codes).\n- **Length:** Variable.\n- **Best suited for:** Shipping labels, inventory control, warehousing logistics, and distribution centers.\n- **Key Benefit:** Highly dense symbology. It packs a lot of data into a relatively compact horizontal footprint, making it the supreme choice for track-and-trace logistics.\n\n---\n\n### 2. EAN-13 & UPC-A: Retail Standards\n\n- **EAN-13 (13 Digits):** Used globally in supermarkets, shops, and general checkout counters outside North America.\n- **UPC-A (12 Digits):** The retail gold-standard across the USA and Canada.\n- **Character Set:** Numeric digits only (0-9).\n- **Best suited for:** Fast POS retail checkouts.\n\n---\n\n### 3. Code 39: The Industrial Heavyweight\n\n- **Character Set:** Alphanumeric (A-Z, 0-9, and a few special characters).\n- **Length:** Variable.\n- **Best suited for:** Industrial tracking, automotive plants, defense logistics, and internal operations.\n- **Key Benefit:** Self-checking properties. It does not strictly require check digits, though including them improves reading fidelity.\n\n---\n\n### 4. Codabar and ITF (Interleaved 2 of 5)\n\n- **Codabar:** Frequently used in library books, blood bank tubes, and old courier airbills. Easily printable by early dot-matrix devices.\n- **ITF (Interleaved 2 of 5):** Specialized numeric-only barcode for cardboard shipping cases. It possesses thick outer borders to prevent scanning of cropped/partial segments.",
+      "views": 194,
+      "publishedAt": "2026-05-25"
+    },
+    {
+      "id": "4",
+      "title": "QR Code Marketing Ideas to Double Your Sign-ups in 2026",
+      "slug": "qr-code-marketing-ideas",
+      "excerpt": "Actionable, creative placement tactics for QR codes on packaging, business cards, flyers, and physical storefronts to skyrocket customer touchpoints.",
+      "content": "### The Power of Interactive QR Codes\n\nConnecting offline assets to online funnels used to represent a marketing chitchat hurdle. Now, users scan QR codes naturally on menus, storefront displays, smart packaging, and direct mail. \n\nHowever, lazy execution yields low scan rates. To maximize conversion rates, apply these creative tactics:\n\n---\n\n### 1. The Interactive Restaurant Menu\n\nInstead of printing a sterile, non-editable PDF, direct customers scan to interactive web modules where they can see high-definition pictures, select allergen filters, read live customer reviews, and order directly from their phone. This lowers server overhead and increases average order volume.\n\n---\n\n### 2. Smart Product Packaging & Authenticity\n\nPlace a custom QR code on your product box leading to:\n- Comprehensive video assembly guides.\n- User registration panels to activate warranty benefits instantly.\n- Proof-of-authenticity systems backed by secure web verification.\n- Dynamic reordering prompts to buy replacement filter cartridges or ink.\n\n---\n\n### 3. Premium High-Conversion Business Cards\n\nDo not clutter paper cards with lines of hard-to-read URLs or long email chains. Add a central, beautifully customized **vCard QR Code**.\n\nWhen scanned, the connection panel creates a prefilled contact page directly on their smartphone. It enables your potential customer to click 'Save to Contact Gallery' in one tap, keeping you permanently connected.\n\n---\n\n### 4. Direct Mail and Street Signs with Visual CTA\n\nEmpty QR codes are ignored. If you print postcards or outdoor posters, always wrap your QR code with a strong call-to-action:\n- \"Scan for 20% Off Your First Order\"\n- \"Scan to Claim Free Premium eBook\"\n- \"Scan to Register for Next Seat\"\n\nUsing customized foreground colors (e.g. matching your primary branding) and inserting your brand logo right at the center can boost scanning confidence by **up to 70%**.\n\nUse our premium generator today to design vector-based QR templates absolutely free of charge.",
+      "views": 311,
+      "publishedAt": "2026-05-28"
+    }
+  ]
+}

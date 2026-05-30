@@ -1,0 +1,6 @@
+{
+  "name": "Free Barcode & QR Code Generator",
+  "description": "Generate, customize, and download high-quality QR codes and barcodes instantly without registration. Built for speed, customization, and full SEO optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
